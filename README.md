@@ -2,6 +2,9 @@
 
 Hello lovely folks from Maths! 
 
+
+Andreea Mocanu - am-github
+
 @ChrisFallaize
 ChrisF
 Clone edit
